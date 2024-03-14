@@ -16,7 +16,7 @@ function App() {
           rel="noopener noreferrer"
           label="Test String"
         >
-          Learn React Fancy String
+          Learn React
         </a>
       </header>
     </div>
